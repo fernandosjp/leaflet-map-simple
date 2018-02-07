@@ -1,4 +1,64 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+municipio,cod_ibge,latitude,longitude
+São Miguel dos Campos,2708600,-9.78301,-36.0971
+Escola Calabar,2927408,-12.9718,-38.5011
+Viçosa,3171303,-20.7559,-42.8742
+Instituto Mãos de arte - IMA,5300108,-15.7795,-47.9297
+Brasília,5300108,-15.7795,-47.9297
+Valparaíso de Goiás,5221858,-16.0651,-47.9757
+São Pedro da Água Branca,2111532,-5.08472,-48.4291
+Diamantino,5103502,-14.4037,-56.4366
+Nortelândia,5106000,-14.454,-56.7945
+Querência,5107065,-12.6093,-52.1821
+Benevides,1501501,-1.36183,-48.2434
+Dom Eliseu,1502939,-4.1994424,-47.8245049
+Paragominas,1505502,-3.00212,-47.3527
+Parauapebas,1505536,-6.06781,-49.9037
+Rondon do Pará,1506187,-4.77793,-48.067
+Ipiranga do Piauí,2204808,-6.82421,-41.7381
+Morro do Chapéu,2921708,-11.5488,-41.1565
+Resende,3304201,-22.4705,-44.4509
+Campo Redondo,2402105,-6.23829,-36.1888
+Caraúbas,2402303,-5.78387,-37.5586
+Doutor Severiano,2403202,-6.08082,-38.3794
+Ipanguaçu,2404705,-5.48984,-36.8501
+Itajá,5210802,-19.0673,-51.5495
+Monte Alegre,1504802,-1.99768,-54.0724
+Nova Cruz,2408300,-6.47511,-35.4286
+Parazinho,2408805,-5.22276,-35.8398
+Patu,2409308,-6.10656,-37.6356
+Santo Antônio,2411502,-6.31195,-35.4739
+Vera Cruz,3556602,-22.2183,-49.8207
+Chupinguaia,1100924,-12.5611,-60.8877
+Theobroma,1101609,-10.2483,-62.3538
+Araranguá,4201406,-28.9356,-49.4918
+Balneário Arroio do Silva,4201950,-28.9806,-49.4237
+Balneário Camboriú,4202008,-26.9926,-48.6352
+Balneário Gaivota,4202073,-29.1527,-49.5841
+Caçador,4203006,-26.7757,-51.012
+Cocal do Sul,4204251,-28.5986,-49.3335
+Criciúma,4204608,-28.6723,-49.3729
+Grão Pará,4206108,-28.1809,-49.2252
+Içara,4207007,-28.7132,-49.3087
+Jacinto Machado,4208708,-28.9961,-49.7623
+Jaguaruna,4208807,-28.6146,-49.0296
+Laguna,4209409,-28.4843,-48.7772
+Lebon Régis,4209706,-26.928,-50.6921
+Mafra,4210100,-26.1159,-49.8086
+Maracajá,4210407,-28.8463,-49.4605
+Meleiro,4210803,-28.8244,-49.6378
+Navegantes,4211306,-26.8943,-48.6546
+Nova Veneza,4211603,-28.6338,-49.5055
+Ouro Verde,4211850,-26.692,-52.3108
+Passo de Torres,4212254,-29.3099,-49.722
+Pescaria Brava,4212650,-28.3966,-48.8864
+Praia Grande,4213807,-29.1918,-49.9525
+Rio Negrinho,4215000,-26.2591,-49.5177
+Sangão,4215455,-28.6326,-49.1322
+Santa Rosa do Sul,4215653,-29.1313,-49.7109
+Schroeder,4217402,-26.4116,-49.074
+Sombrio,4217709,-29.108,-49.6328
+Timbé do Sul,4218103,-28.8287,-49.842
+Botucatu,3507506,-22.8837,-48.4437
+Campos do Jordão,3509700,-22.7296,-45.5833
+Jacareí,3524402,-23.2983,-45.9658
+Piracicaba,3538709,-22.7338,-47.6476
