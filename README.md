@@ -10,3 +10,6 @@ http://jackdougherty.github.io/leaflet-map-simple
 
 ## Learn more
 - Jack Dougherty and contributors, *Data Visualization For All*, a free textbook and online course, Trinity College, Hartford CT, http://DataVizForAll.org
+
+## Reference
+https://www.datavizforall.org/github/fork-leaflet/
