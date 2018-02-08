@@ -3,7 +3,7 @@ Esboço de mapa da comunidade i-Educar
 
 ## Link to my live map (replace with link to your site)
 
-http://fernandosjp.github.io/leaflet-map-simple
+https://fernandosjp.github.io/mapa-comunidade-ieducar/
 
 ## Reference
 
